@@ -1,0 +1,29 @@
+.wrapper{
+    width: 40%;
+    outline: 3px dotted green;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+}
+button{
+    background-color: green;
+    border:  0;
+    border-radius: 5px;
+    height: 35px;
+    width: 45px;
+    margin: 8px;
+    color: white;
+}
+.bar-display span{
+    margin: 30px;
+    font-family: cursive;
+    font-size: 1em;
+    font-weight: bold;
+}
+.bar-display{
+    display: inline-block;
+}
+.main-display img{
+    width: 495px; 
+    margin-top: 10px;
+}
